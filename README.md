@@ -1,10 +1,8 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h2 align="center">👋 Welcome to my GitHub!</h2>
 
-<p style="font-size: 1.2em;">
 This is where I share my journey and projects as I grow as a developer.
 Hi! I'm a student at <a href="https://42perpignan.fr">42 Perpignan Occitanie</a>.
 You can find a portfolio of the work done during my common core curriculum in this repo -> <a href="https://github.com/hdprz/42_common_core">42_common_core</a>
-</p>
 
 ---
 
